@@ -138,7 +138,7 @@ HR-Analytics-Attrition-Dashboard/
 
 ## 🖥️ Dashboard Preview
 
-![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 ## 📁 Project Files
